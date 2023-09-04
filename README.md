@@ -80,7 +80,7 @@
 </p>
 
 <fother>
-<h2 align="left">
+<h2 align="center">
   <span style="color: #00ff40;">*********Thanks for being here*********</span>
 </h2> 
 
