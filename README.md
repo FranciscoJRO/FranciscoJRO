@@ -79,15 +79,14 @@
 
 </p>
 
-<fother>
-<h2 align="center">
-  <span style="color: #00ff40;">*********Thanks for being here*********</span>
-</h2> 
-
-<img src="geto-suguru-blue-spring.gif" width = auto>
-
-</fother>
-
 </body>
+<footer align="center">
+  <h2 align="center">
+    <span style="color: #00ff40;">*********Thanks for being here*********</span>
+  </h2> 
+
+  <img src="geto-suguru-blue-spring.gif" width="auto">
+</footer>
+
 
 
