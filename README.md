@@ -47,11 +47,11 @@
     <img src="https://skillicons.dev/icons?i=git,html,css,vue,c,python,js,latex,java,swift,figma,php&perline=4" width="500" />
   </a>
 </p>
+</body>
 
-<footer align="center">
   <h2 align="center">
     <span style="color: #00ff40;">*********Thanks for being here*********</span>
   </h2> 
-
+<div align="center">
   <img src="geto-suguru-blue-spring.gif" width="auto">
-</footer>
+</div>
