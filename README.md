@@ -20,6 +20,8 @@
 - ⚡ Fun fact: I love tacos 🌮.
 - 😉 You only fail when you stop trying.
 - I am a pre intern at Proteco. 💻
+<img align="right" src="github.gif" width="195px"/> 
+
 
 ## <p align="center"> Favorites Programming Languages </p>
 <p align="center">
@@ -44,14 +46,31 @@
 
 <p align="center">
   <a href="https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3">
-    <img src="https://skillicons.dev/icons?i=git,html,css,vue,c,python,js,latex,java,swift,figma,php&perline=4" width="500" />
+    <img src="https://skillicons.dev/icons?i=git,html,css,vue,c,python,js,latex,java,swift,figma,php,linux,mysql,bootstrap,github&perline=4" width="500" />
   </a>
 </p>
 </body>
 
-  <h2 align="center">
+<h2 align="center"> 🏀 My hobbies 💪🏻 </h2>
+<img align="left" src="taco_pastor.gif" width="190px"/> 
+
+
+- I love basketball. 🏀
+- I go to the gym every day 💪🏻
+- My favourite taco is **SUPER DUPER TACO AL PASTOR**  
+- I love anime like One piece, Demon Slayer, Jujutsu kaisen 
+- I play LOL in my free time 
+- I love all kind of music 
+
+
+<div align="center">
+  <img src="zoro-roronoa-zoro.gif" width="auto">
+</div>
+
+<h2 align="center">
     <span style="color: #00ff40;">*********Thanks for being here*********</span>
   </h2> 
+  
 <div align="center">
   <img src="geto-suguru-blue-spring.gif" width="auto">
 </div>
