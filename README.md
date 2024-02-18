@@ -46,7 +46,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3">
-    <img src="https://skillicons.dev/icons?i=git,html,css,vue,c,python,js,latex,java,swift,figma,php,linux,mysql,bootstrap,github,laravel,bash,docker&perline=4" width="500" />
+    <img src="https://skillicons.dev/icons?i=git,html,css,vue,c,python,js,latex,java,swift,figma,php,linux,mysql,bootstrap,github,laravel,bash,docker,react&perline=4" width="500" />
   </a>
 </p>
 </body>
